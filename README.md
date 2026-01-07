@@ -123,7 +123,7 @@ University of Oslo
 ## 🌍 Languages
 
 - English — Fluent  
-- Norwegian — Basic (A2)
+- Norwegian — Basic (B1)
 
 ---
 
@@ -131,7 +131,9 @@ University of Oslo
 
 - 📧 Email: hamed.sahebi@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/hamed-sahebi-2439b249  
-- 🧑‍💻 GitHub: https://github.com/hamedsahebi  
+- 🧑‍💻 GitHub: https://github.com/hamedsahebi
+- 🎥 Project demos and walkthroughs of my recent work are available on my LinkedIn profile.
+
 
 ---
 
